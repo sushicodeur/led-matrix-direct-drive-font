@@ -1,6 +1,6 @@
 # Font for Arduino's Direct Drive LED Matrix tutorial
 
-This is an pretty complete font to use with 8x8 Led Matrix as proposed here : http://playground.arduino.cc/Main/DirectDriveLEDMatrix
+This is a pretty complete font to use with 8x8 Led Matrix as proposed here : http://playground.arduino.cc/Main/DirectDriveLEDMatrix
 
 The font is based on Neale Davidson's "[Emulator Normal](http://www.urbanfonts.com/fonts/Emulator.htm)" font.
 
@@ -39,4 +39,4 @@ byte patterns[numPatterns][8][8] = {
 };
 ```
 
-> Note : as `F` was already defined in Arduino, I renamed the Object `_F`
+> Note : as `F` was already defined in Arduino, I renamed the Object `_F` but you can rename it to whatever 'F' word you like ;)
